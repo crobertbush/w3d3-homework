@@ -12,24 +12,30 @@ var j = 100;
 
 //addition
 console.log(a+b);
+
 console.log(j+f);
 
 //subtraction
 console.log(j-b);
+
 console.log(g-f);
 
 //multiplication
 console.log(a*c);
+
 console.log(j*h);
 
 //division
 console.log(i/d);
+
 console.log(h/f);
 
 //increments
-console.log(g++);
-console.log(e++);
+console.log(++h);
+
+console.log(++e);
 
 //decrements
-console.log(i--);
-console.log(g--);
+console.log(--i);
+
+console.log(--g);
